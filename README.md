@@ -2,4 +2,5 @@
 
 - Commit
 - Branch
-- Edit from GitHub
+- Merge
+- Rebase
