@@ -2,3 +2,4 @@
 
 - Commit
 - Branch
+- Edit from GitHub
