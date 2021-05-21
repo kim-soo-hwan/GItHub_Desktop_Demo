@@ -2,6 +2,5 @@
 
 - Commit
 - Branch
-- Conflict
 - Merge
 - Rebase
